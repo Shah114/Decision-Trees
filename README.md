@@ -5,10 +5,16 @@ This repository provides an implementation of Decision Trees using Python. Decis
 
 **Features**
 Classification and Regression Trees: Support for both decision tree classifiers and regressors.
+
 Gini Impurity and Entropy: Two criteria for measuring the quality of splits in classification trees.
+
 Mean Squared Error: Criterion for regression trees.
+
 Pruning: Implementation of pruning methods to avoid overfitting.
+
 Visualization: Tools for visualizing the tree structure.
+
+
 
 **Requirements**
 
