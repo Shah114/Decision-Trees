@@ -11,9 +11,15 @@ Pruning: Implementation of pruning methods to avoid overfitting.
 Visualization: Tools for visualizing the tree structure.
 
 **Requirements**
+
 Python 3.6 or later
+
 NumPy
+
 Pandas
+
 Scikit-learn
+
 Matplotlib (for visualization)
+
 Seaborn
